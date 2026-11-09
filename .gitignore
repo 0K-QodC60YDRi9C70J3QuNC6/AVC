@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# C и C++
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Сборка и временные файлы
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.tmp
+*.log
+
+# Редакторы и ОС
+.idea/
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
