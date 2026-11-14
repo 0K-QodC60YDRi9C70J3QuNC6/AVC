@@ -1,0 +1,7 @@
+services:
+  bits:
+    build: .
+    platform: linux/amd64
+    working_dir: /work
+    volumes:
+      - .:/work

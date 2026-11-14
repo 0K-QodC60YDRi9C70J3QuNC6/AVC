@@ -1,0 +1,10 @@
+function;x86-64;x86-64-v3;rv64gc;rv64gc_zbb;x86-64 compiler;rv64 compiler
+bswap32;3;3;14;14;GCC: (Debian 12.2.0-14+deb12u1) 12.2.0;GCC: (Debian 12.2.0-13) 12.2.0
+is_pow2;8;7;6;6;GCC: (Debian 12.2.0-14+deb12u1) 12.2.0;GCC: (Debian 12.2.0-13) 12.2.0
+parity32;17;17;12;12;GCC: (Debian 12.2.0-14+deb12u1) 12.2.0;GCC: (Debian 12.2.0-13) 12.2.0
+popcount32;16;3;22;2;GCC: (Debian 12.2.0-14+deb12u1) 12.2.0;GCC: (Debian 12.2.0-13) 12.2.0
+ctz32;15;10;16;9;GCC: (Debian 12.2.0-14+deb12u1) 12.2.0;GCC: (Debian 12.2.0-13) 12.2.0
+clz32;37;33;25;25;GCC: (Debian 12.2.0-14+deb12u1) 12.2.0;GCC: (Debian 12.2.0-13) 12.2.0
+next_pow2;22;22;16;16;GCC: (Debian 12.2.0-14+deb12u1) 12.2.0;GCC: (Debian 12.2.0-13) 12.2.0
+sign_extend;12;11;11;11;GCC: (Debian 12.2.0-14+deb12u1) 12.2.0;GCC: (Debian 12.2.0-13) 12.2.0
+sat_add32;20;19;21;19;GCC: (Debian 12.2.0-14+deb12u1) 12.2.0;GCC: (Debian 12.2.0-13) 12.2.0
